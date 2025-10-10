@@ -1,1 +1,1 @@
-# racunalniski-praktikum2526
+# Računalniški praktikum
